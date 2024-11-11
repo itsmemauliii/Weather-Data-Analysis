@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+from sklearn.datasets import load_iris
 
 # URL of the dataset (you can replace this with any public URL)
 url = "https://www.kaggle.com/datasets/prasad22/weather-data"
@@ -63,6 +64,7 @@ fig, ax = plt.subplots(figsize=(8, 6))
 sns.scatterplot(x='total_bill', y='tip', data=df, color='orange', ax=ax)
 st.pyplot(fig)
 
+from sklearn.datasets import load_iris
 iris = load_iris()
 df = pd.DataFrame(iris.data, columns=iris.feature_names)
 
