@@ -122,7 +122,7 @@ st.pyplot(fig)
 
 ---
 
-## 🌍 Future Improvements
+## Future Improvements
 
 * Add live weather API integration (e.g., OpenWeatherMap)
 * Enable file upload for user datasets
@@ -131,8 +131,8 @@ st.pyplot(fig)
 
 ---
 
-## 👩‍💻 Author
+## Author
 
-**Mauli Patel**
-*Data Science & AI Enthusiast*
-📬 [LinkedIn](https://linkedin.com/in/your-profile)
+* **Mauli Patel**
+* *Data Science & AI Enthusiast*
+* [LinkedIn](https://linkedin.com/in/your-profile)
