@@ -51,7 +51,7 @@ weather-analysis-app/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/weather-data-analysis.git
+   git clone https://github.com/itsmemauliii/weather-data-analysis.git
    cd weather-data-analysis
    ```
 
