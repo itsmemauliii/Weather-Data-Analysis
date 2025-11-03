@@ -3,7 +3,7 @@
 ## Overview
 
 This interactive **Streamlit web app** lets users explore and visualize **weather data**, along with sample datasets like **Iris** and **Tips** from Seaborn.
-It demonstrates basic **data loading, exploration, and visualization** using **Python, Pandas, Matplotlib, and Seaborn** — ideal for beginners learning data analysis or app deployment with Streamlit.
+It demonstrates basic **data loading, exploration, and visualization** using **Python, Pandas, Matplotlib, and Seaborn**, ideal for beginners learning data analysis or app deployment with Streamlit.
 
 ---
 
